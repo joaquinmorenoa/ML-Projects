@@ -15,7 +15,7 @@ The database contains the following:
   
 ### Goals of the Project
 
-We are going to predict the user action in this project i.e whether the user has bounced, added to cart, begins checkout or finished checkout.
+To predict the user action in this project i.e whether the user has bounced, added to cart, begins checkout or finished checkout.
 
 Using only Logistic Binary Classification.
 
